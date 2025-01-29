@@ -614,7 +614,6 @@ section,
 }
 
 
-
 .about {
   font-family: 'Montserrat', sans-serif; /* change the font to Montserrat */
   display: flex;
@@ -826,7 +825,7 @@ section,
 
 
 
-
+/* Experience */
 
 .experience {
   font-family: 'Montserrat', sans-serif;
@@ -897,7 +896,7 @@ section,
 }
 
 
-
+/* Education */
 
 .education-section {
   padding: 50px 20px;
@@ -1204,7 +1203,7 @@ section,
 
 
 
-
+/* Projects */
 
 .projects-section {
   padding: 50px 20px;
@@ -1348,7 +1347,7 @@ section,
   
   .project-caption {
       position: static;
-      background-color: #007bff;
+      background-color: #2a9d8f;
   }
   
   .project-details h3 {
